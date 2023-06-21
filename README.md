@@ -1,16 +1,12 @@
 # livetest7
 
-A new Flutter project.
+Counter App Flutter project.
 
-## Getting Started
+## App Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![livetest7-1](https://github.com/probirroy/livetest7/assets/9416408/4b1e3e5d-874e-4c0e-8217-1b12f61e0994)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![livetest7-2](https://github.com/probirroy/livetest7/assets/9416408/9ada097e-141a-423f-80cd-1fe76050b90d)
+![livetest7-3](https://github.com/probirroy/livetest7/assets/9416408/56e981ca-39a1-4710-9bfd-81af1f6d9565)
